@@ -130,8 +130,7 @@ const char *  SoundList[] =
 	"DayFox - Departure",
 	"Ikson - Wanna",
 	"LiQWYD - Morning",
-	"Tobu-Colors",
-	"The Promised Neverland Op"
+	"Tobu-Colors"
 };//À½¾Ç ¸®½ºÆ®
 typedef struct _SOUNDFILE
 {

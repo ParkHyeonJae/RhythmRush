@@ -1,0 +1,10 @@
+extraction:
+  cpp:
+     prepare:
+        packages: 
+          - libboost-all-dev
+          - bison
+     configure:
+        command:
+        - ./bootstrap
+        - ./configure --with-modules="" --without-lua
